@@ -64,7 +64,26 @@ The purpose of this project was to build and administer a Windows Server 2022 Ac
 - VirtualBox
 
 ---
+## Skills Matrix
 
+| Technology | Implemented |
+|------------|:-----------:|
+| Windows Server 2022 | ✅ |
+| Active Directory Domain Services | ✅ |
+| DNS | ✅ |
+| DHCP | ✅ |
+| Organizational Units | ✅ |
+| User & Group Management | ✅ |
+| NTFS Permissions | ✅ |
+| SMB File Shares | ✅ |
+| Group Policy | ✅ |
+| Drive Mapping | ✅ |
+| DFS Namespace | ✅ |
+| Windows Server Backup | ✅ |
+| WSUS | ✅ |
+| PowerShell | ✅ |
+| Windows 10 Domain Join | ✅ |
+| Oracle VirtualBox | ✅ |
 ## Skills Demonstrated
 
 - Active Directory Administration
@@ -120,3 +139,12 @@ The next phase of this project will include:
 ## Goal
 
 The purpose of this project is to demonstrate hands-on Windows Server administration skills using technologies commonly found in enterprise environments.
+---
+
+## Project Summary
+
+This home lab provided hands-on experience deploying, administering, and troubleshooting a Windows Server 2022 Active Directory environment.
+
+Through this project, I gained practical experience with identity management, networking services, Group Policy, Windows administration, PowerShell automation, and enterprise infrastructure documentation.
+
+This repository demonstrates my ability to build, manage, and document a Windows domain environment using industry-standard Microsoft technologies.
