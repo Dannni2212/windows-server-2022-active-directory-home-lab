@@ -48,8 +48,27 @@ The purpose of this project was to build and administer a Windows Server 2022 Ac
 | DFS | Namespace |
 | WSUS | Windows Server Update Services |
 
----
+---## Repository Structure
 
+```text
+windows-server-2022-active-directory-home-lab/
+├── diagrams/
+│   └── windows-server-2022-home-lab-topology.png
+├── docs/
+│   ├── Active Directory.md
+│   ├── DNS.md
+│   ├── DHCP.md
+│   ├── Group Policy.md
+│   ├── DFS.md
+│   ├── WSUS.md
+│   └── ...
+├── screenshots/
+├── scripts/
+│   └── PowerShell-Examples.ps1
+├── LICENSE
+└── README.md
+```
+**
 ## Technologies
 
 - Windows Server 2022
@@ -122,18 +141,31 @@ The purpose of this project was to build and administer a Windows Server 2022 Ac
 | 11 | WSUS |
 | 12 | Troubleshooting |
 
----
+---## Resume Highlights
 
-## Future Expansion
+Through this project I demonstrated experience with:
 
-The next phase of this project will include:
+- Active Directory administration
+- Windows Server 2022
+- DNS and DHCP configuration
+- Group Policy management
+- PowerShell scripting
+- DFS Namespaces
+- Windows Server Backup
+- Windows Server Update Services (WSUS)
+- File sharing and NTFS permissions
+- Domain-joined Windows client administration
+- Enterprise infrastructure documentation
 
-- Microsoft Entra ID
-- Microsoft Entra Connect
-- Microsoft 365
-- Microsoft Intune
-- Microsoft Azure
+## Future Enhancements
 
+- Integrate Microsoft Entra ID
+- Configure Azure AD Connect
+- Deploy Microsoft Intune
+- Configure Microsoft 365 administration
+- Explore Azure Virtual Machines
+- Implement Windows Admin Center
+- Add monitoring and logging solutions
 ---
 
 ## Goal
