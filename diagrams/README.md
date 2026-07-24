@@ -8,6 +8,8 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-2F61B4?style=for-the-badge&logo=virtualbox)
 
 ![Status](https://img.shields.io/badge/Project-Complete-success?style=for-the-badge)
+
+
 This folder contains architecture diagrams for the Windows Server 2022 Active Directory Home Lab.
 
 These diagrams illustrate the logical layout of the environment, including:
