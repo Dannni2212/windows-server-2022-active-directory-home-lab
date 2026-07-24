@@ -16,7 +16,24 @@ The lab simulates a small business environment using Active Directory Domain Ser
 - [Future Expansion](#future-expansion)
 - [Goal](#goal)
 ---
+## Project Objectives
 
+The purpose of this project was to build and administer a Windows Server 2022 Active Directory environment from the ground up while gaining practical experience with technologies commonly used in enterprise environments.
+
+### Objectives
+
+- Deploy a Windows Server 2022 Domain Controller
+- Configure Active Directory Domain Services (AD DS)
+- Configure DNS and DHCP services
+- Join Windows 10 clients to the domain
+- Create Organizational Units (OUs), users, and security groups
+- Configure file shares with Share and NTFS permissions
+- Deploy Group Policy Objects (GPOs)
+- Automate administrative tasks using PowerShell
+- Configure a DFS Namespace
+- Configure Windows Server Backup
+- Deploy and manage Windows Server Update Services (WSUS)
+- Document the environment and troubleshooting process
 ## Lab Environment
 
 | Component | Configuration |
