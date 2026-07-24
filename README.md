@@ -5,17 +5,17 @@
 This repository documents my Windows Server 2022 Active Directory Home Lab built in Oracle VirtualBox. The project was created to gain hands-on experience with enterprise Windows infrastructure and prepare for a Junior Systems Administrator role.
 
 The lab simulates a small business environment using Active Directory Domain Services, DNS, DHCP, Group Policy, DFS, Windows Server Backup, WSUS, PowerShell, and Windows 10 domain administration.
+## ## Table of Contents
 
----## Table of Contents
-
-- Overview
-- Lab Architecture
-- Environment
-- Technologies
-- Skills Demonstrated
-- Lab Documentation
-- Troubleshooting
-- Future Enhancements
+- [Overview](#overview)
+- [Lab Architecture](#lab-architecture)
+- [Lab Environment](#lab-environment)
+- [Technologies](#technologies)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Documentation](#documentation)
+- [Future Expansion](#future-expansion)
+- [Goal](#goal)
+---
 
 ## Lab Environment
 
