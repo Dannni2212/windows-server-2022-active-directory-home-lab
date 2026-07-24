@@ -6,7 +6,16 @@ This repository documents my Windows Server 2022 Active Directory Home Lab built
 
 The lab simulates a small business environment using Active Directory Domain Services, DNS, DHCP, Group Policy, DFS, Windows Server Backup, WSUS, PowerShell, and Windows 10 domain administration.
 
----
+---## Table of Contents
+
+- Overview
+- Lab Architecture
+- Environment
+- Technologies
+- Skills Demonstrated
+- Lab Documentation
+- Troubleshooting
+- Future Enhancements
 
 ## Lab Environment
 
