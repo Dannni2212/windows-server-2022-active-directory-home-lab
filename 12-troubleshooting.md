@@ -1,4 +1,4 @@
-# 12 — Troubleshooting and Lessons Learned
+# 14 — Troubleshooting and Lessons Learned
 
 ## 1. Installed Server Core Instead of Desktop Experience
 **Issue:** The original server installation did not include the GUI.
