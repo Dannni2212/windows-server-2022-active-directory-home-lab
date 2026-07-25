@@ -140,7 +140,12 @@ windows-server-2022-active-directory-home-lab/
 | 10 | Windows Server Backup |
 | 11 | WSUS |
 | 12 | Troubleshooting |
+## Documentation
 
+- [Lab 01 - Windows Server Installation](docs/01-Windows-Server-Installation.md)
+...
+- [Lab 12 - Documentation & Architecture](docs/12-Documentation-and-Architecture.md)
+- [Lab 13 - Windows Defender Firewall & Security Hardening](docs/13-Windows-Defender-Firewall-and-Security-Hardening.md)
 ---## Resume Highlights
 
 Through this project I demonstrated experience with:
